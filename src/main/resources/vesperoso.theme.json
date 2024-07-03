@@ -5,20 +5,20 @@
   "editorScheme": "/colors/vesperoso.xml",
   "colors": {
     "hidden": "#FFFFFF00",
-    "primary": "#101010",
+    "primary": "#222222",
     "accent": "#FFBD89",
     "alternate": "#9AFFE7",
     "magenta": "#9162D5",
     "error": "#FF8080",
     "success": "#89ca78",
     "gray": "#505050",
-    "primary25": "#10101025",
+    "primary25": "#22222225",
     "secondary": "#EEEEEE",
     "secondary10": "#FFFFFF10",
     "activeSelection": "#FFFFFF28",
     "activeSelectionVivid": "#FFFFFF40",
     "inactiveSelection": "#FFFFFF25",
-    "borderColor": "#1c1c1c00",
+    "borderColor": "#222222",
     "accentLighten2": "#E3E3DD",
     "accentLighten": "#FFCFA8",
     "accentVivid": "#FF7300",
@@ -33,7 +33,7 @@
     "grayLighten3": "#707070",
     "grayLighten2": "#666666",
     "grayLighten1": "#595959",
-    "grayDarken1": "#373737",
+    "grayDarken1": "#222222",
     "grayDarken2": "#282828",
     "grayDarken3": "#232323",
     "grayDarken4": "#1C1C1C"
@@ -46,8 +46,8 @@
       "selectionInactiveBackground": "inactiveSelection",
       "disabledBackground": "primary",
       "underlineColor": "activeSelection",
-      "borderColor": "grayDarken4",
-      "separatorColor": "grayDarken4"
+      "borderColor": "primary",
+      "separatorColor": "primary"
     },
     "ActionButton": {
       "hoverBorderColor": "inactiveSelection",
@@ -156,9 +156,9 @@
     "List": {
       "rowHeight": 26,
       "background": "grayDarken1",
-      "selectionBackground": "grayDarken3",
+      "selectionBackground": "grayDarken2",
       "selectionForeground": "accent",
-      "hoverBackground": "grayDarken2"
+      "hoverBackground": "grayDarken1"
     },
     "Menu": {
       "acceleratorForeground": "secondary",
@@ -380,11 +380,11 @@
       "Checkbox.Background.Default.Dark": "#3C3C3C",
       "Checkbox.Border.Default.Dark": "#3C3C3C",
       "Checkbox.Foreground.Selected.Dark": "#B6B6B6",
-      "Checkbox.Focus.Thin.Default": "#101010",
+      "Checkbox.Focus.Thin.Default": "#222222",
       "Checkbox.Focus.Wide.Dark": "#FFCFA8",
       "Checkbox.Focus.Thin.Default.Dark": "#FFCFA8",
-      "Checkbox.Focus.Thin.Selected.Dark": "#101010",
-      "Checkbox.Background.Disabled.Dark": "#101010",
+      "Checkbox.Focus.Thin.Selected.Dark": "#222222",
+      "Checkbox.Background.Disabled.Dark": "#222222",
       "Checkbox.Border.Disabled.Dark": "#282828",
       "Checkbox.Foreground.Disabled.Dark": "#282828"
     }

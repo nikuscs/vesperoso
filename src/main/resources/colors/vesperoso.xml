@@ -7,15 +7,15 @@
   <colors>
     <option name="ADDED_LINES_COLOR" value="99ffe4" />
     <option name="ANNOTATIONS_COLOR" value="ffffff" />
-    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="101010" />
-    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="101010" />
-    <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="101010" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_END" value="222222" />
+    <option name="BLOCK_TERMINAL_BLOCK_BACKGROUND_START" value="222222" />
+    <option name="BLOCK_TERMINAL_DEFAULT_BACKGROUND" value="222222" />
     <option name="BLOCK_TERMINAL_DEFAULT_FOREGROUND" value="eeeeee" />
-    <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_BACKGROUND" value="101010" />
+    <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_BACKGROUND" value="222222" />
     <option name="BLOCK_TERMINAL_INACTIVE_SELECTED_BLOCK_STROKE_COLOR" value="" />
     <option name="CARET_COLOR" value="aeafad" />
-    <option name="CARET_ROW_COLOR" value="161616" />
-    <option name="CONSOLE_BACKGROUND_KEY" value="101010" />
+    <option name="CARET_ROW_COLOR" value="333333" />
+    <option name="CONSOLE_BACKGROUND_KEY" value="222222" />
     <option name="DELETED_LINES_COLOR" value="505050" />
     <option name="DOCUMENTATION_COLOR" value="373737" />
     <option name="DOC_COMMENT_GUIDE" value="595959" />
@@ -25,7 +25,7 @@
     <option name="HINT_BORDER" value="666666" />
     <option name="IGNORED_ADDED_LINES_BORDER_COLOR" value="99ffe4" />
     <option name="IGNORED_MODIFIED_LINES_BORDER_COLOR" value="ffc799" />
-    <option name="INDENT_GUIDE" value="161616" />
+    <option name="INDENT_GUIDE" value="262626" />
     <option name="INFORMATION_HINT" value="282828" />
     <option name="LINE_NUMBERS_COLOR" value="505050" />
     <option name="LINE_NUMBER_ON_CARET_ROW_COLOR" value="c6c6c6" />
@@ -33,7 +33,7 @@
     <option name="MODIFIED_LINES_COLOR" value="ffc799" />
     <option name="NOTIFICATION_BACKGROUND" value="282828" />
     <option name="RECENT_LOCATIONS_SELECTION" value="282828" />
-    <option name="RIGHT_MARGIN_COLOR" value="161616" />
+    <option name="RIGHT_MARGIN_COLOR" value="222222" />
     <option name="SELECTED_INDENT_GUIDE" value="" />
     <option name="SELECTION_BACKGROUND" value="282828" />
     <option name="TEARLINE_COLOR" value="" />
@@ -519,7 +519,7 @@
     </option>
     <option name="INJECTED_LANGUAGE_FRAGMENT">
       <value>
-        <option name="BACKGROUND" value="101010" />
+        <option name="BACKGROUND" value="222222" />
       </value>
     </option>
     <option name="JAVA_KEYWORD">
@@ -834,14 +834,14 @@
     </option>
     <option name="TERMINAL_COMMAND_TO_RUN_USING_IDE">
       <value>
-        <option name="FOREGROUND" value="101010" />
+        <option name="FOREGROUND" value="222222" />
         <option name="BACKGROUND" value="ffc799" />
       </value>
     </option>
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="eeeeee" />
-        <option name="BACKGROUND" value="101010" />
+        <option name="BACKGROUND" value="222222" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
@@ -963,7 +963,7 @@
     <option name="XML_TAG_DATA">
       <value>
         <option name="FOREGROUND" value="ffffff" />
-        <option name="BACKGROUND" value="101010" />
+        <option name="BACKGROUND" value="222222" />
         <option name="EFFECT_TYPE" value="5" />
       </value>
     </option>
