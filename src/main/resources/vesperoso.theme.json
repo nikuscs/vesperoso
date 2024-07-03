@@ -145,7 +145,7 @@
     "EditorTabs": {
       "underlineColor": "accent",
       "underlinedTabBackground": "primary",
-      "background": "grayDarken2"
+      "background": "primary"
     },
     "Link": {
       "activeForeground": "alternate",
@@ -309,6 +309,7 @@
     },
     "ToolWindow": {
       "background": "primary",
+      "inactiveBackground": "primary",
       "Button": {
         "selectedBackground": "grayDarken2"
       },
@@ -319,6 +320,18 @@
         "height": 42,
         "inactiveBackground": "primary",
         "padding": 16
+      }
+    },
+    "MainToolbar": {
+      "background": "primary",
+      "inactiveBackground": "primary",
+      "Dropdown": {
+        "hoverBackground": "grayDarken2"
+      },
+      "Icon": {
+        "borderInsets": "10,10,10,10",
+        "hoverBackground": "grayDarken2",
+        "pressedBackground": "grayDarken1"
       }
     },
     "Tree": {
