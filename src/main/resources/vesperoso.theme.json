@@ -1,5 +1,5 @@
 {
-  "name": "vepseroso",
+  "name": "vepseroso light",
   "dark": true,
   "author": "Vikthor Ferreira",
   "editorScheme": "/colors/vesperoso.xml",
@@ -337,9 +337,9 @@
     "Tree": {
       "background": "primary",
       "rowHeight": 26,
-      "selectionBackground": "grayDarken3",
+      "selectionBackground": "activeSelection",
       "selectionForeground": "accent",
-      "selectionInactiveBackground": "grayDarken3"
+      "selectionInactiveBackground": "activeSelection",
     },
     "VersionControl": {
       "Log": {

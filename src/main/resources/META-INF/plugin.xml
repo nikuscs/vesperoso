@@ -1,7 +1,7 @@
 <!-- Plugin Configuration File. Read more: https://plugins.jetbrains.com/docs/intellij/plugin-configuration-file.html -->
 <idea-plugin>
-    <id>com.github.vikthorvergara.vesperoso</id>
-    <name>vesperoso</name>
+    <id>com.github.vikthorvergara.vesperoso_plus</id>
+    <name>vesperoso plus</name>
     <vendor>vikthorvergara</vendor>
     <description><![CDATA[
         Based on the Vesper++ Theme from <a href="https://github.com/ObstinateM/vesper">ObstinateM</a>, with some minor color adaptations for IntelliJ.
@@ -10,7 +10,7 @@
     <depends>com.intellij.modules.platform</depends>
 
     <extensions defaultExtensionNs="com.intellij">
-        <themeProvider id="com.github.vikthorvergara.vesperoso" path="/vesperoso.theme.json"/>
-        <bundledColorScheme id="com.github.vikthorvergara.vesperoso" path="colors/vesperoso"/>
+        <themeProvider id="com.github.vikthorvergara.vesperoso_plus" path="/vesperoso.theme.json"/>
+        <bundledColorScheme id="com.github.vikthorvergara.vesperoso_plus" path="colors/vesperoso"/>
     </extensions>
 </idea-plugin>

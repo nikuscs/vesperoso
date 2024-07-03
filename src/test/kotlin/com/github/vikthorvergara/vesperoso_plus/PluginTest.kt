@@ -1,4 +1,4 @@
-package com.github.vikthorvergara.vesperoso
+package com.github.vikthorvergara.vesperoso_plus
 
 import com.intellij.psi.xml.XmlFile
 import com.intellij.testFramework.TestDataPath
